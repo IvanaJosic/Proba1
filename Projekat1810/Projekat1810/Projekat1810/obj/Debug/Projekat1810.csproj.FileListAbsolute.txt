@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\bin\Debug\Projekat1810.exe.config
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\bin\Debug\Projekat1810.exe
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\bin\Debug\Projekat1810.pdb
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\obj\Debug\Projekat1810.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\obj\Debug\Projekat1810.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\obj\Debug\Projekat1810.exe
+C:\Users\user\Desktop\Projekat1810\Projekat1810\Projekat1810\obj\Debug\Projekat1810.pdb
